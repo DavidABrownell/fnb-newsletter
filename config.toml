@@ -24,9 +24,12 @@ taxonomies = [
 slim_summary = false
 slim_content = false
 slim_netlify_identity = false
+
 slim_menu = [
-    {url = "$BASE_URL/links", name = "Links"}
 ]
+
 slim_social = [
+    {url = "https://www.facebook.com/FNBPalouse", name = "FNB of the Palouse Facebook"},
+    {url = "https://github.com/DavidABrownell/fnb-newsletter", name = "Github Repository"},
     {url = "https://github.com/davidabrownell", name = "Developer"}
 ]
